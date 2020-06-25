@@ -1,0 +1,12 @@
+C:\Users\ermov\gtcoding\C#\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfoInputs.cache
+C:\Users\ermov\gtcoding\C#\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfo.cs
+C:\Users\ermov\gtcoding\C#\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.csproj.CoreCompileInputs.cache
+C:\Users\ermov\gtcoding\C#\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.exe
+C:\Users\ermov\gtcoding\C#\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.deps.json
+C:\Users\ermov\gtcoding\C#\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.json
+C:\Users\ermov\gtcoding\C#\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.dev.json
+C:\Users\ermov\gtcoding\C#\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.dll
+C:\Users\ermov\gtcoding\C#\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.pdb
+C:\Users\ermov\gtcoding\C#\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.dll
+C:\Users\ermov\gtcoding\C#\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.pdb
+C:\Users\ermov\gtcoding\C#\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.genruntimeconfig.cache
